@@ -15,9 +15,8 @@ I developed this project to provide valuable insights into the rapidly growing I
 
 <h2>Technology Used</h2>
 <ul>
-  <li>SQL</li>
-  <li>Python</li>
-  <li>Tableau</li>
+  <li>Jupyter Notebook</li>
+  <li> Python - pandas, numpy, matplotlib.pyplot, seaborn</li>
 </ul> 
 
 <h2>Dataset Used</h2>
