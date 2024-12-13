@@ -19,6 +19,7 @@ I developed this project to provide valuable insights into the rapidly growing I
   <li> Python - pandas, numpy, matplotlib.pyplot, seaborn</li>
 </ul> 
 
+'''
 <h2>Dataset Used</h2>
 Daily price data for indexes tracking stock exchanges from all over the world (United States, China, Canada, Germany, Japan, and more). The data was all collected from Yahoo Finance, which had several decades of data available for most exchanges.<br>
 <a href="https://github.com/PrachiKhatri22/Data-Driven-Stock-Investment-Insights-for-Stakeholders-/blob/main/indexData.csv">CSV File 1 </a> <br>
@@ -58,7 +59,7 @@ Delivered actionable insights for investors with limited stock analysis experien
 
 Cleaned and processed stock datasets, integrated data using SQL, developed comprehensive visualization charts, created three interactive dashboards, and prepared a PowerPoint presentation explaining each chart. The project saved approximately 40 hours in manual data analysis and visualization, and provided stakeholders with a tool that could potentially save thousands of dollars by reducing investment risks.
 
-
+'''
 
 
 
