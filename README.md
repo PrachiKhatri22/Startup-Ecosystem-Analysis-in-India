@@ -34,7 +34,7 @@ The dataset includes startups from diverse industry verticals such as E-commerce
 <li>What are the different Types of Funding for Startups?</li>
 </ol>
 
-h2>Data Analysis Process:</h2>
+<h2>Data Analysis Process:</h2>
 <b>Data Cleaning:</b>
 <li>Clean strings (standardize text, remove typos, convert to lowercase).</li>
 <li>emove irrelevant columns.</li>
