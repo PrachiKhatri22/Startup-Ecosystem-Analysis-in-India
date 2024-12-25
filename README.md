@@ -24,6 +24,16 @@ The dataset includes startups from diverse industry verticals such as E-commerce
 <a href="https://github.com/PrachiKhatri22/Startup-Ecosystem-Analysis-in-India/blob/main/startup_funding.csv">CSV File </a> <br>
 
 
+<h2>QAnswering Few Questions/ KPIs:</h2>
+<ol>
+<li>How Does the Funding Ecosystem changes with respect to Time?</li>
+<li>What is the General Amount that Startups get in India?</li>
+<li>Which Kind of Industries are more preferred for Startups?</li>
+<li>Does Location also play a role, In determining the Growth of a Startup?</li>
+<li>Who plays the main role in Indian Startups Ecosystem?</li>
+<li>What are the different Types of Funding for Startups?</li>
+</ol>
+
 
 
 
