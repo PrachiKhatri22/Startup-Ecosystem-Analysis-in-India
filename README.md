@@ -73,6 +73,8 @@ The dataset includes startups from diverse industry verticals such as E-commerce
 
 <b>Industries that are more preferred for Startups</b><br>
 <img width="245" alt="Screenshot 2024-12-25 at 7 51 45 AM" src="https://github.com/user-attachments/assets/6239c4d1-3c73-4c96-b308-81e0ff0e2acb" />
+![image](https://github.com/user-attachments/assets/20beb591-b19b-43cf-9586-1321673e2a3a)
+
 
 
 <b>Number of fundings made as per Year to Month Transaction</b><br>
