@@ -35,16 +35,17 @@ The dataset includes startups from diverse industry verticals such as E-commerce
 </ol>
 
 <h2>Data Analysis Process:</h2>
+
 <b>Data Cleaning:</b>
 <li>Clean strings (standardize text, remove typos, convert to lowercase).</li>
-<li>emove irrelevant columns.</li>
+<li>emove irrelevant columns.</li><br>
 
 <b>Handling Missing/Invalid Data:</b>
 <li>Check for null/NaN values and remove or impute them based on significance.</li>
-<li>Validate and clean date formats and numerical values.</li>
+<li>Validate and clean date formats and numerical values.</li><br>
 
 <b>Currency Standardization:</b>
-<li>Convert all funding amounts to a single currency (e.g., INR or USD).</li>
+<li>Convert all funding amounts to a single currency (e.g., INR or USD).</li><br>
 
 <b>Key Questions/KPIs:</b>
 
@@ -53,11 +54,11 @@ The dataset includes startups from diverse industry verticals such as E-commerce
 <li>Preferred Industries: Determine popular industries and their funding using bar/pie charts.</li>
 <li>Role of Location: Analyze city-wise startup distribution and funding with heatmaps.</li>
 <li>Key Ecosystem Players: Identify top investors and their investment patterns using rankings.</li>
-<li>Funding Types: Classify and visualize different funding types and trends.</li>
+<li>Funding Types: Classify and visualize different funding types and trends.</li><br>
 
 <b>Visualization and Reporting:</b>
 <li>Create dashboards with line charts, bar graphs, heatmaps, and network diagrams.</li>
-<li>Provide actionable insights for entrepreneurs, investors, and policymakers.</li>
+<li>Provide actionable insights for entrepreneurs, investors, and policymakers.</li><br>
 
 
 
