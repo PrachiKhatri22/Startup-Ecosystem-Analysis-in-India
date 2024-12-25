@@ -64,6 +64,23 @@ The dataset includes startups from diverse industry verticals such as E-commerce
 <b>Number of fundings made as per Year to Month Transaction</b><br>
 <img width="853" alt="image" src="https://github.com/user-attachments/assets/5b3d17b1-aca3-4a49-a18b-425e0a1824dd" /><br>
 
+<b>Amount that Startups get in India</b><br>
+<img width="413" alt="image" src="https://github.com/user-attachments/assets/8f7a0ad5-4e73-4054-8486-cc9e4c230686" /><br>
+
+<b>To 10 Startups in India with number of fundings they have</b><br>
+<img width="853" alt="image" src="https://github.com/user-attachments/assets/c18c1850-85b6-44e7-b12a-f30feeaaca7d" /><br>
+
+<b>Number of fundings made as per Year to Month Transaction</b><br>
+<img width="853" alt="image" src="https://github.com/user-attachments/assets/5b3d17b1-aca3-4a49-a18b-425e0a1824dd" /><br>
+
+<b>Number of fundings made as per Year to Month Transaction</b><br>
+<img width="853" alt="image" src="https://github.com/user-attachments/assets/5b3d17b1-aca3-4a49-a18b-425e0a1824dd" /><br>
+
+<b>Number of fundings made as per Year to Month Transaction</b><br>
+<img width="853" alt="image" src="https://github.com/user-attachments/assets/5b3d17b1-aca3-4a49-a18b-425e0a1824dd" /><br>
+
+<b>Number of fundings made as per Year to Month Transaction</b><br>
+<img width="853" alt="image" src="https://github.com/user-attachments/assets/5b3d17b1-aca3-4a49-a18b-425e0a1824dd" /><br>
 
 
 <h2>Outcome:</h2>
