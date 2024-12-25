@@ -34,7 +34,30 @@ The dataset includes startups from diverse industry verticals such as E-commerce
 <li>What are the different Types of Funding for Startups?</li>
 </ol>
 
+h2>Data Analysis Process:</h2>
+<b>Data Cleaning:</b>
+<li>Clean strings (standardize text, remove typos, convert to lowercase).</li>
+<li>emove irrelevant columns.</li>
 
+<b>Handling Missing/Invalid Data:</b>
+<li>Check for null/NaN values and remove or impute them based on significance.</li>
+<li>Validate and clean date formats and numerical values.</li>
+
+<b>Currency Standardization:</b>
+<li>Convert all funding amounts to a single currency (e.g., INR or USD).</li>
+
+<b>Key Questions/KPIs:</b>
+
+<li>Funding Ecosystem Over Time: Analyze trends in the number of startups and funding amounts using line charts.</li>
+<li>General Funding Amounts: Calculate summary statistics and visualize funding distributions.</li>
+<li>Preferred Industries: Determine popular industries and their funding using bar/pie charts.</li>
+<li>Role of Location: Analyze city-wise startup distribution and funding with heatmaps.</li>
+<li>Key Ecosystem Players: Identify top investors and their investment patterns using rankings.</li>
+<li>Funding Types: Classify and visualize different funding types and trends.</li>
+
+<b>Visualization and Reporting:</b>
+<li>Create dashboards with line charts, bar graphs, heatmaps, and network diagrams.</li>
+<li>Provide actionable insights for entrepreneurs, investors, and policymakers.</li>
 
 
 
