@@ -85,6 +85,8 @@ The dataset includes startups from diverse industry verticals such as E-commerce
 <img width="219" alt="image" src="https://github.com/user-attachments/assets/f52a690b-4bc6-4207-a3a0-7ef5d21d04f4" />
 ![image](https://github.com/user-attachments/assets/fef8a8d1-2441-4df5-b0f9-b37ffc925223)
 
+Also checkout my Jupyter Notebook:
+<a href="https://github.com/PrachiKhatri22/Startup-Ecosystem-Analysis-in-India/blob/main/Startup_Ecosystem_Analysis_in_India.ipynb">Notebook</a>
 
 <h2>Outcome:</h2>
 The analysis reduced research and decision-making time by 30%, helping stakeholders identify 20% more promising sectors and optimize investments with a 15% increase in ROI. It enhanced collaboration and provided actionable insights, boosting ecosystem efficiency by 40%.
