@@ -20,7 +20,7 @@ I developed this project to provide valuable insights into the rapidly growing I
 </ul> 
 
 <h2>Dataset Used</h2>
-The dataset used in this project is the Netflix dataset, which includes information on movies such as IMDb ratings, number of reviews, genres, directors, actors, and countries, enabling personalized movie recommendations.<br>
+The dataset includes startups from diverse industry verticals such as E-commerce, HealthTech, and EdTech, with a concentration of investments in major cities like Bengaluru, Mumbai, and Delhi, highlighting the dominance of metro regions in India's startup ecosystem.<br>
 <a href="https://github.com/PrachiKhatri22/Startup-Ecosystem-Analysis-in-India/blob/main/startup_funding.csv">CSV File </a> <br>
 
 
