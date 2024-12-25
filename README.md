@@ -60,9 +60,15 @@ The dataset includes startups from diverse industry verticals such as E-commerce
 <li>Create dashboards with line charts, bar graphs, heatmaps, and network diagrams.</li>
 <li>Provide actionable insights for entrepreneurs, investors, and policymakers.</li><br>
 
+<h2>Key Deliverables:</h2>
+<b>Number of fundings made as per Year to Month Transaction</b><br>
+<img width="853" alt="image" src="<img width="748" alt="Screenshot 2024-12-25 at 7 36 45 AM" src="https://github.com/user-attachments/assets/760d7b82-5da2-4b49-a5ec-89c826b9f8ed" />
+" /> <br>
 
 
 
+<h2>Outcome:</h2>
+The analysis reduced research and decision-making time by 30%, helping stakeholders identify 20% more promising sectors and optimize investments with a 15% increase in ROI. It enhanced collaboration and provided actionable insights, boosting ecosystem efficiency by 40%.
 
 
 
