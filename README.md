@@ -77,14 +77,13 @@ The dataset includes startups from diverse industry verticals such as E-commerce
 
 
 
-<b>Number of fundings made as per Year to Month Transaction</b><br>
-<img width="853" alt="image" src="https://github.com/user-attachments/assets/5b3d17b1-aca3-4a49-a18b-425e0a1824dd" /><br>
+<b>Top Investors in Indian Startups</b><br>
+![image](https://github.com/user-attachments/assets/4f638f9b-d520-42e3-b426-66aa99723032)
+<br>
 
-<b>Number of fundings made as per Year to Month Transaction</b><br>
-<img width="853" alt="image" src="https://github.com/user-attachments/assets/5b3d17b1-aca3-4a49-a18b-425e0a1824dd" /><br>
-
-<b>Number of fundings made as per Year to Month Transaction</b><br>
-<img width="853" alt="image" src="https://github.com/user-attachments/assets/5b3d17b1-aca3-4a49-a18b-425e0a1824dd" /><br>
+<b>Different Types of Funding Investors for Startups</b><br>
+<img width="219" alt="image" src="https://github.com/user-attachments/assets/f52a690b-4bc6-4207-a3a0-7ef5d21d04f4" />
+![image](https://github.com/user-attachments/assets/fef8a8d1-2441-4df5-b0f9-b37ffc925223)
 
 
 <h2>Outcome:</h2>
