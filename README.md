@@ -62,7 +62,7 @@ The dataset includes startups from diverse industry verticals such as E-commerce
 
 <h2>Key Deliverables:</h2>
 <b>Number of fundings made as per Year to Month Transaction</b><br>
-<img width="853" alt="image" src="<img width="748" alt="Screenshot 2024-12-25 at 7 36 45 AM" src="https://github.com/user-attachments/assets/760d7b82-5da2-4b49-a5ec-89c826b9f8ed"/><br>
+<img width="317" alt="image" src="![image](https://github.com/user-attachments/assets/5b3d17b1-aca3-4a49-a18b-425e0a1824dd)" /><br>
 
 
 
