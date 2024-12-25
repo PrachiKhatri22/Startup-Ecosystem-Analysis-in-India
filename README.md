@@ -19,6 +19,9 @@ I developed this project to provide valuable insights into the rapidly growing I
   <li> Python - pandas, numpy, matplotlib.pyplot, seaborn</li>
 </ul> 
 
+<h2>Dataset Used</h2>
+The dataset used in this project is the Netflix dataset, which includes information on movies such as IMDb ratings, number of reviews, genres, directors, actors, and countries, enabling personalized movie recommendations.<br>
+<a href="https://github.com/PrachiKhatri22/Startup-Ecosystem-Analysis-in-India/blob/main/startup_funding.csv">CSV File </a> <br>
 
 
 
