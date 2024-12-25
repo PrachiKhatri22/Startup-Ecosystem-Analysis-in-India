@@ -60,7 +60,8 @@ The dataset includes startups from diverse industry verticals such as E-commerce
 <li>Create dashboards with line charts, bar graphs, heatmaps, and network diagrams.</li>
 <li>Provide actionable insights for entrepreneurs, investors, and policymakers.</li><br>
 
-<h2>Key Deliverables:</h2>
+<h2>Key Deliverables:</h2><br>
+
 <b>Number of fundings made as per Year to Month Transaction</b><br>
 <img width="853" alt="image" src="https://github.com/user-attachments/assets/5b3d17b1-aca3-4a49-a18b-425e0a1824dd" /><br>
 
@@ -70,8 +71,9 @@ The dataset includes startups from diverse industry verticals such as E-commerce
 <b>To 10 Startups in India with number of fundings they have</b><br>
 <img width="853" alt="image" src="https://github.com/user-attachments/assets/c18c1850-85b6-44e7-b12a-f30feeaaca7d" /><br>
 
-<b>Number of fundings made as per Year to Month Transaction</b><br>
-<img width="853" alt="image" src="https://github.com/user-attachments/assets/5b3d17b1-aca3-4a49-a18b-425e0a1824dd" /><br>
+<b>Industries that are more preferred for Startups</b><br>
+<img width="245" alt="Screenshot 2024-12-25 at 7 51 45 AM" src="https://github.com/user-attachments/assets/6239c4d1-3c73-4c96-b308-81e0ff0e2acb" />
+
 
 <b>Number of fundings made as per Year to Month Transaction</b><br>
 <img width="853" alt="image" src="https://github.com/user-attachments/assets/5b3d17b1-aca3-4a49-a18b-425e0a1824dd" /><br>
